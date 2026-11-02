@@ -13,21 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Trophy SVG
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: "username=Sumeetawantgi&theme=tokyonight&column=7&no-frame=true"
-          path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Commit Trophy SVG
+      - name: Generate trophies
         run: |
-          git clone https://github.com/${{ github.repository }} repo
-          cd repo
           mkdir -p profile
-          cp ../profile/trophy.svg profile/trophy.svg
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          curl -fL "https://github-profile-trophy.vercel.app/?username=Sumeetawantgi&theme=tokyonight&no-frame=true&column=7" -o profile/trophy.svg
+
+      - name: Commit trophy image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/trophy.svg
           git commit -m "Update GitHub trophies" || exit 0
           git push
