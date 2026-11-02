@@ -42,6 +42,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sumeetawantgi/Sumeetawantgi/main/profile/trophy.svg" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
 ## 🔥 GitHub Contribution Streak
 
 <div align="center">
