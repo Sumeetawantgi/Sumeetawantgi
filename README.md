@@ -50,8 +50,25 @@
 
 </div>
 
+
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sumeetawantgi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+
+</div>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumeetawantgi&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
 ## 💡 Featured Projects
 
 ### 🩺 Cura AI
