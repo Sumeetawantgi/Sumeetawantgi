@@ -16,12 +16,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate trophies
-        run: |
-          mkdir -p profile
-          curl -fL "https://github-profile-trophy.vercel.app/?username=Sumeetawantgi&theme=tokyonight&no-frame=true&column=7" -o profile/trophy.svg
+      - name: Generate Trophy
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: "username=Sumeetawantgi&theme=tokyonight&column=7&no-frame=true"
+          path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
-      - name: Commit trophy image
+      - name: Commit Trophy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
