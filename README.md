@@ -76,20 +76,48 @@
 </div>
 ---
 
-## 💡 Featured Projects
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🩺 Cura AI
 
 AI-Powered Personal Health Copilot.
 
-* Helps users understand medical documents.
-* Provides AI-powered health insights.
-* Built using Python and Streamlit.
+- Medical document analysis
+- AI-powered health insights
+- Gemini API integration
 
-### 🎥 HYPOGRAPHYYY Portfolio
+**Tech:** Python | Streamlit | Gemini
 
-Personal creative portfolio showcasing photography, videography and content creation.
+<a href="https://github.com/shriraksha-deshp/Cure-AI">
+View Project →
+</a>
 
+</td>
+
+<td width="50%">
+
+### 🎥 HYPOGRAPHYYY
+
+Personal creative portfolio.
+
+- Photography portfolio
+- Cinematic videography
+- Responsive website
+
+**Tech:** HTML | CSS | JavaScript
+
+<a href="https://github.com/Sumeetawantgi">
+View GitHub →
+</a>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🌐 Connect With Me
