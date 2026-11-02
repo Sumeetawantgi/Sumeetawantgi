@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="sumeet-animated-name.svg" width="100%" alt="Sumeet Awantgi Animated Banner"/>
+</div>
+
+<br/>
 
 # 👋 Hi, I'm Sumeet Awantgi
 
