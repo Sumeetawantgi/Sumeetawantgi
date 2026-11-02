@@ -7,7 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+%26+Machine+Learning;Building+Projects+%26+Learning+Every+Day;Turning+Ideas+Into+Reality!" />
 
 </div>
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Sumeetawantgi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
 ---
 
 ## 🚀 About Me
