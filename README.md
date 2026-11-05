@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="sumeet-animated-name-spacing-fixed.svg" width="100%" alt="Sumeet Awantgi"/>
+  <img src="sumeet.svg" width="100%" alt="Sumeet Awantgi"/>
 </div>
 
 <br/>
