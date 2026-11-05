@@ -130,6 +130,10 @@ View GitHub →
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/sumeet-awantgi-53360438b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
 <a href="https://www.linkedin.com/in/sumeet-awantgi-53360438b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
